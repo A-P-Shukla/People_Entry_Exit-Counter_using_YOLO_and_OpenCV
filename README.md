@@ -58,8 +58,8 @@ Follow these steps to set up and run the project on your local machine.
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-github-repo-link>
-cd <repository-folder-name>
+git clone https://github.com/A-P-Shukla/People_Entry_Exit-Counter_using_YOLO_and_OpenCV.git
+cd People_Entry_Exit-Counter_using_YOLO_and_OpenCV
 ```
 
 ### 3. Create a Virtual Environment (Recommended)
